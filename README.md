@@ -10,8 +10,8 @@ This isn’t my corporate GitHub repo where I pretend to be a coding wizard for 
 (creative 0815 text by AI i know :D )
 
 ## Skills & Technologies
-
-py,java,cpp,cloudflare,flask,docker,jenkins,postman,postgres,mongodb,arduino,raspberrypi,grafana,godot,gcp,dotnet,git,github,django,azure,terraform,ubuntu,linux,windows,selenium
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,cloudflare,flask,docker,jenkins,postman,postgres,mongodb,arduino,raspberrypi,grafana,godot,gcp,dotnet,git,github,django,azure,terraform,ubuntu,linux,windows,selenium
+)](https://skillicons.dev)
 
 ## Top Projects
 
